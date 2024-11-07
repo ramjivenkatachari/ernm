@@ -15,3 +15,5 @@ For Statistics that may be useful for the wider community. They can be integrate
 
 After these steps you should be able to add new statistics to your local fork of the ERNM package, and then submit a PR to have those statistics integrated into the ERNM package for others to use.
 
+## Test additions by Ramji on Nov 7, 2024
+testing
